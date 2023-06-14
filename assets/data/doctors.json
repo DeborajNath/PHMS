@@ -1,0 +1,25 @@
+{
+  "doctor": [
+    {
+      "id": 1,
+      "name": "Dr.Tranquilly",
+      "specialize": "Medicine",
+      "experience": 6,
+      "image":"assets/images/doctor2Img.png"
+    },
+    {
+      "id": 2,
+      "name": "Dr.John",
+      "specialize": "ent",
+      "experience": 4,
+      "image":"assets/images/doctorImg.png"
+    },
+    {
+      "id": 3,
+      "name": "Dr.Aryan",
+      "specialize": "Orthology",
+      "experience": 5,
+      "image":"assets/images/doctorImg.png"
+    }
+  ]
+}

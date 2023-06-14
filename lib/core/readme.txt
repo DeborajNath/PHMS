@@ -1,0 +1,1 @@
+Repetative or commonly used  constants are define over here .
